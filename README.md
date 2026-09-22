@@ -1,6 +1,6 @@
 # Material Design 3（Expressive）中文文档 · GitHub Pages 版
 
-Google 官方 [m3.material.io](https://m3.material.io/) 的个人学习用中文镜像（2026-09-21 快照），原站前端完整迁移，内容翻译为简体中文。
+Google 官方 [m3.material.io](https://m3.material.io/) 的个人学习用中文镜像（2026-09-22 快照），原站前端完整迁移，内容翻译为简体中文。
 
 - 在线访问：GitHub Pages（见仓库 Pages 设置）
 - 原始内容版权归 Google（Material Design 团队）所有；翻译仅供个人学习参考，非官方文档
